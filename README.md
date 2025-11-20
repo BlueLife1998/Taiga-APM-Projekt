@@ -1,4 +1,6 @@
 # Taiga-APM-Projekt
+In diesem Repo befinden sich alle wichtigen Dateien, die im Zuge der Projektarbeit zur Einrichtung von Taiga auf einem Hochschulserver entstanden sind.
+Die entstandene Seite kann unter http://apm.hs-emden-leer.de/ abgerufen werden.
 ---
 ## Enthaltene Dateien:
 - Taiga_Installation.md: Vollständige Installationsanleitung zur Einrichtung von Rootless Docker + Taiga auf Hochschulserver (ohne Verwendung eines gemounteten NAS)
